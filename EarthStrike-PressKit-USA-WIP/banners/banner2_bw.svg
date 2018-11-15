@@ -15,7 +15,7 @@
    viewBox="0 0 254 101.6"
    version="1.1"
    id="svg4525"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="banner2_bw.svg"
    inkscape:export-filename="/home/joshua/Projects/EarthStrike/EarthStrike-PressKit-USA/banners/banner1_1600x640.png"
    inkscape:export-xdpi="160"
@@ -736,19 +736,44 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="691.4017"
-     inkscape:cy="209.0433"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="602.25264"
+     inkscape:cy="161.35978"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      width="10in"
-     inkscape:window-width="1600"
-     inkscape:window-height="850"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true">
+    <sodipodi:guide
+       position="102.42124,72.681373"
+       orientation="1,0"
+       id="guide5736"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="240.80064,72.681373"
+       orientation="1,0"
+       id="guide5738"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="102.42124,72.681373"
+       orientation="0,1"
+       id="guide5740"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="105.59057,10.142352"
+       orientation="0,1"
+       id="guide5742"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <metadata
      id="metadata4522">
     <rdf:RDF>
@@ -757,7 +782,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -784,15 +809,15 @@
          id="tspan5669">TO SAVE THE PLANET!</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.01235771px;line-height:11.82281303px;font-family:'Passion One';-inkscape-font-specification:'Passion One Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.96475768;stroke-miterlimit:4;stroke-dasharray:none"
-       x="171.79454"
-       y="223.5285"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.49489403px;line-height:9.57439423px;font-family:'Passion One';-inkscape-font-specification:'Passion One Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke:#000000;stroke-width:0.80982369;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.9647577"
+       x="171.53862"
+       y="223.67877"
        id="text5200-0"><tspan
          sodipodi:role="line"
-         x="171.79454"
-         y="223.5285"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.01235771px;font-family:'Passion One';-inkscape-font-specification:'Passion One Bold';text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:0.96475768"
-         id="tspan5491-9">JANUARY 15</tspan></text>
+         x="171.53862"
+         y="223.67877"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.49489403px;font-family:'Passion One';-inkscape-font-specification:'Passion One Bold';text-align:center;text-anchor:middle;fill:#fcfcfc;fill-opacity:1;stroke:#000000;stroke-width:0.80982369;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.9647577"
+         id="tspan5491-9">SEPTEMBER 27</tspan></text>
     <g
        id="g7669"
        transform="matrix(0.91366809,0,0,0.91366809,5.6479104,200.48629)">
@@ -914,137 +939,83 @@
    id="tspan4650"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.75555611px;font-family:'Passion One';-inkscape-font-specification:'Passion One Bold';fill:#030303;fill-opacity:1;stroke-width:0.26458332px">         S T R I K E</tspan></textPath></text>
       </g>
-      <g
-         style="display:inline"
-         inkscape:label="Dates"
-         id="layer5">
-        <text
-           transform="rotate(60)"
-           id="text4750"
-           y="-57.571293"
-           x="68.77449"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:6.61458302px;font-family:'Passion One';-inkscape-font-specification:'Passion One Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:'Passion One';-inkscape-font-specification:'Passion One Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458332px"
-             y="-57.571293"
-             x="68.77449"
-             id="tspan4748"
-             sodipodi:role="line">JAN. 15</tspan><tspan
-             id="tspan4754"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:'Passion One';-inkscape-font-specification:'Passion One Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458332px"
-             y="-50.956711"
-             x="68.77449"
-             sodipodi:role="line">2019</tspan></text>
-        <text
-           transform="rotate(-120)"
-           id="text4750-0"
-           y="-21.487951"
-           x="-67.575867"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;line-height:6.61458302px;font-family:'Passion One';-inkscape-font-specification:'Passion One Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:'Passion One';-inkscape-font-specification:'Passion One Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458332px"
-             y="-21.487951"
-             x="-67.575867"
-             id="tspan4748-5"
-             sodipodi:role="line">JAN. 15</tspan><tspan
-             id="tspan4754-2"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:'Passion One';-inkscape-font-specification:'Passion One Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458332px"
-             y="-14.873368"
-             x="-67.575867"
-             sodipodi:role="line">2019</tspan></text>
-      </g>
     </g>
+    <path
+       id="path5790-0-9"
+       d="m 111.92034,282.1081 c 0,2.62413 -2.12542,4.74955 -4.74955,4.74955 -2.62414,0 -4.74955,-2.12542 -4.74955,-4.74955 0,-2.62414 2.12541,-4.74955 4.74955,-4.74955 2.62413,0 4.74955,2.12541 4.74955,4.74955 z m -5.61872,2.50539 c 2.10643,0 3.2582,-1.74547 3.2582,-3.25819 0,-0.0498 0,-0.0997 -0.002,-0.14724 0.22324,-0.16149 0.41797,-0.36335 0.57232,-0.5937 -0.20423,0.0902 -0.42508,0.15199 -0.65781,0.18049 0.23748,-0.14249 0.41796,-0.36572 0.50346,-0.63407 -0.22086,0.13061 -0.46546,0.22561 -0.7267,0.27784 -0.20897,-0.22322 -0.50582,-0.36095 -0.83592,-0.36095 -0.63168,0 -1.14464,0.51295 -1.14464,1.14463 0,0.0902 0.01,0.17812 0.0308,0.26123 -0.95228,-0.0475 -1.79532,-0.50345 -2.36052,-1.19688 -0.0974,0.16861 -0.15436,0.36571 -0.15436,0.57469 0,0.39659 0.20186,0.74805 0.51058,0.95228 -0.18761,-0.005 -0.36334,-0.0571 -0.51771,-0.14248 0,0.005 0,0.01 0,0.0143 0,0.55569 0.39422,1.01639 0.91905,1.12327 -0.0949,0.0261 -0.19711,0.0404 -0.30161,0.0404 -0.0736,0 -0.14485,-0.007 -0.2161,-0.0214 0.14487,0.45596 0.56757,0.78605 1.06865,0.79555 -0.39183,0.30635 -0.88579,0.48921 -1.42249,0.48921 -0.0926,0 -0.18285,-0.005 -0.27309,-0.0166 0.50107,0.32771 1.10426,0.51769 1.75021,0.51769"
+       class="st0"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.5;stroke:none;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.89431477px;line-height:3.31282854px;font-family:'Passion One';-inkscape-font-specification:'Passion One';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+       x="113.85374"
+       y="284.49265"
+       id="text5803-23-2"><tspan
+         sodipodi:role="line"
+         id="tspan5801-7-0"
+         x="113.85374"
+         y="284.49265"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;">@StrikeEarth</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke-width:0.5;stroke:none;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       label="Layer 1"
+       d="m 177.07063,282.1081 c 0,2.62305 -2.12652,4.74956 -4.74982,4.74956 -2.62319,0 -4.74979,-2.12645 -4.74979,-4.74956 0,-2.62307 2.12652,-4.74955 4.74979,-4.74955 2.62321,0 4.74982,2.12641 4.74982,4.74955 z"
+       id="imagebot_11-5-9" />
     <g
-       id="g6865"
-       transform="translate(1.2417541)">
-      <g
-         id="g6117-4"
-         transform="matrix(0.7783308,0,0,0.7783308,49.255226,250.41915)">
-        <path
-           style="fill:#000000;stroke-width:0.0341027"
-           inkscape:connector-curvature="0"
-           class="st0"
-           d="m 70.784282,39.99567 c 0,3.76835 -3.05219,6.82054 -6.82054,6.82054 -3.76835,0 -6.82054,-3.05219 -6.82054,-6.82054 0,-3.76836 3.05219,-6.82055 6.82054,-6.82055 3.76835,0 6.82054,3.05219 6.82054,6.82055 z m -8.0687,3.59783 c 3.02491,0 4.67889,-2.50655 4.67889,-4.67889 0,-0.0716 0,-0.14323 -0.003,-0.21144 0.32057,-0.2319 0.60021,-0.52177 0.82188,-0.85257 -0.29329,0.12959 -0.61044,0.21826 -0.94465,0.25919 0.34103,-0.20462 0.60021,-0.52519 0.72298,-0.91055 -0.31716,0.18757 -0.66841,0.32398 -1.04354,0.399 -0.30011,-0.32056 -0.72639,-0.51835 -1.20042,-0.51835 -0.90713,0 -1.64375,0.73661 -1.64375,1.64374 0,0.12959 0.0136,0.25578 0.0443,0.37514 -1.36752,-0.0682 -2.57816,-0.72298 -3.38981,-1.71878 -0.13982,0.24213 -0.22167,0.52518 -0.22167,0.82528 0,0.56952 0.28988,1.07424 0.73321,1.36752 -0.26941,-0.007 -0.52177,-0.0819 -0.74344,-0.20461 0,0.007 0,0.0136 0,0.0205 0,0.798 0.56611,1.45959 1.31978,1.61306 -0.13641,0.0375 -0.28305,0.058 -0.43311,0.058 -0.10571,0 -0.20802,-0.0102 -0.31033,-0.0307 0.20803,0.65478 0.81505,1.1288 1.53462,1.14244 -0.56269,0.43993 -1.27203,0.70252 -2.04275,0.70252 -0.133,0 -0.26259,-0.007 -0.39218,-0.0238 0.71956,0.47061 1.58577,0.74343 2.51337,0.74343"
-           id="path5790-0-9" />
-        <text
-           id="text5803-23-2"
-           y="43.41996"
-           x="73.560692"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.20862007px;line-height:4.75735044px;font-family:'Passion One';-inkscape-font-specification:'Passion One';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#131313;stroke-width:0.58999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             style="fill:#ffffff;fill-opacity:1;stroke:#131313;stroke-width:0.58999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             y="43.41996"
-             x="73.560692"
-             id="tspan5801-7-0"
-             sodipodi:role="line">@StrikeEarth</tspan></text>
-      </g>
-      <g
-         id="g6131-6"
-         transform="matrix(0.7783308,0,0,0.7783308,127.80408,236.38633)">
-        <g
-           id="g5776-8">
-          <path
-             style="fill:#000000;stroke-width:0.04751768"
-             inkscape:connector-curvature="0"
-             label="Layer 1"
-             d="m 70.777022,58.02503 c 0,3.76459 -3.05197,6.81656 -6.81693,6.81656 -3.76479,0 -6.81689,-3.05187 -6.81689,-6.81656 0,-3.76462 3.05198,-6.81655 6.81689,-6.81655 3.76482,0 6.81693,3.05183 6.81693,6.81655 z"
-             id="imagebot_11-5-9" />
-          <g
-             style="stroke:#ffffff"
-             label="Layer 1"
-             transform="matrix(0.04751768,0,0,0.04751768,49.137044,34.66435)"
-             id="imagebot_3-2">
-            <path
-               style="fill:none;stroke:#ffffff;stroke-width:14.99199963;stroke-linecap:round"
-               inkscape:connector-curvature="0"
-               transform="matrix(0.94025,0,0,0.92745,12.409,42.957)"
-               d="m 422.85999,483.79001 c 0,56.806 -46.69,102.86 -104.29001,102.86 -57.595,0 -104.29,-46.051 -104.29,-102.86 0,-56.806 46.69,-102.86 104.29,-102.86 57.59501,0 104.29001,46.051 104.29001,102.86 z"
-               id="imagebot_10-9-6" />
-            <path
-               style="fill:none;stroke:#ffffff;stroke-width:14"
-               inkscape:connector-curvature="0"
-               d="M 230,442.35999 H 398"
-               id="imagebot_9-2-6" />
-            <path
-               style="fill:none;stroke:#ffffff;stroke-width:14"
-               inkscape:connector-curvature="0"
-               d="M 228,538.85999 H 400"
-               id="imagebot_8-2-4" />
-            <path
-               style="fill:none;stroke:#ffffff;stroke-width:14"
-               inkscape:connector-curvature="0"
-               d="M 218,491.35999 H 406"
-               id="imagebot_7-8-9" />
-            <path
-               style="fill:none;stroke:#ffffff;stroke-width:14"
-               inkscape:connector-curvature="0"
-               d="m 310.25,583.10999 v -184"
-               id="imagebot_6-9-5" />
-            <path
-               style="fill:none;stroke:#ffffff;stroke-width:14"
-               inkscape:connector-curvature="0"
-               d="m 310.25,583.10999 c -60.25,-20.75 -70.25,-150.75 0,-184"
-               id="imagebot_5-0" />
-            <path
-               style="fill:none;stroke:#ffffff;stroke-width:14"
-               inkscape:connector-curvature="0"
-               d="m 310.25,583.10999 c 69.75,-30.75 69.75,-150.75 0,-184"
-               id="imagebot_4-48" />
-          </g>
-        </g>
-        <text
-           id="text5803-5-7-7"
-           y="61.449318"
-           x="73.601776"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.20862007px;line-height:4.75735044px;font-family:'Passion One';-inkscape-font-specification:'Passion One';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#131313;stroke-width:0.58999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             style="fill:#ffffff;fill-opacity:1;stroke:#131313;stroke-width:0.58999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             y="61.449318"
-             x="73.601776"
-             id="tspan5801-6-3-1"
-             sodipodi:role="line">earthstrike.org</tspan></text>
-      </g>
+       style="stroke:#ffffff"
+       label="Layer 1"
+       transform="matrix(0.03310878,0,0,0.03310878,161.99259,265.83113)"
+       id="imagebot_3-2">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:14.99199963;stroke-linecap:round"
+         inkscape:connector-curvature="0"
+         transform="matrix(0.94025,0,0,0.92745,12.409,42.957)"
+         d="m 422.85999,483.79001 c 0,56.806 -46.69,102.86 -104.29001,102.86 -57.595,0 -104.29,-46.051 -104.29,-102.86 0,-56.806 46.69,-102.86 104.29,-102.86 57.59501,0 104.29001,46.051 104.29001,102.86 z"
+         id="imagebot_10-9-6" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:14"
+         inkscape:connector-curvature="0"
+         d="M 230,442.35999 H 398"
+         id="imagebot_9-2-6" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:14"
+         inkscape:connector-curvature="0"
+         d="M 228,538.85999 H 400"
+         id="imagebot_8-2-4" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:14"
+         inkscape:connector-curvature="0"
+         d="M 218,491.35999 H 406"
+         id="imagebot_7-8-9" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:14"
+         inkscape:connector-curvature="0"
+         d="m 310.25,583.10999 v -184"
+         id="imagebot_6-9-5" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:14"
+         inkscape:connector-curvature="0"
+         d="m 310.25,583.10999 c -60.25,-20.75 -70.25,-150.75 0,-184"
+         id="imagebot_5-0" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:14"
+         inkscape:connector-curvature="0"
+         d="m 310.25,583.10999 c 69.75,-30.75 69.75,-150.75 0,-184"
+         id="imagebot_4-48" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.90010643px;line-height:3.31476784px;font-family:'Passion One';-inkscape-font-specification:'Passion One';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+       x="179.03882"
+       y="284.49405"
+       id="text5803-5-7-7"><tspan
+         sodipodi:role="line"
+         id="tspan5801-6-3-1"
+         x="179.03882"
+         y="284.49405"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;">earth-strike.com</tspan></text>
   </g>
   <style
      type="text/css"
