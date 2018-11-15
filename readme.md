@@ -1,4 +1,5 @@
 # This document is meant for EarthStrike organizers/contributors
+## Work in progress. Read `changes.md` to help
 
 Some basic asset types that will be needed:
 * Logo (mostly done just needs final processing or editing)
