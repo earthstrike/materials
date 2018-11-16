@@ -1,13 +1,13 @@
 # General
 - updated:
-    - [ ] social media links
-    - [ ] website link
+    - [x] social media links
+    - [x] website link
     - [ ] dates
     - [ ] logos
-    - [ ] color scheme
+    - [x] color scheme
 # Updated folders
 - [x] banners
-- [ ] flyers
+- [x] flyers
 - [ ] logos
 # To Do
 - [ ] export SVGs as PNG
