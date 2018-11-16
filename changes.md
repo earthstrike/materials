@@ -10,6 +10,7 @@
 - [x] logos
 # To Do
 - [ ] export SVGs as PNG
+- [ ] update `united.psd`
 ## Deleted
 - all .psd files *(not compatible to open source software)*
 - `bridge.jpg` *(wrong date - no source file at hand)*
@@ -17,5 +18,6 @@
 - `mountains2.jpg` *(wrong date - no source file at hand)*
 - `EarthStrike.pdf`*(outdated)*
 - `EarthStrike2018.odt` *(outdated, use the Google Doc instead)*
+- `poster_german.xcf`
 ## Added
 - `OpenSans.zip`
