@@ -2,17 +2,14 @@
 - updated:
     - [x] social media links
     - [x] website link
-    - [ ] dates
-    - [ ] logos
+    - [x] dates
     - [x] color scheme
 # Updated folders
 - [x] banners
 - [x] flyers
-- [ ] logos
+- [x] logos
 # To Do
 - [ ] export SVGs as PNG
-- [ ] update flyers
-- [ ] update logos
 ## Deleted
 - all .psd files *(not compatible to open source software)*
 - `bridge.jpg` *(wrong date - no source file at hand)*
