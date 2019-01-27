@@ -1,0 +1,2 @@
+Author: hPerks, partially adapted from old styleguide by Omnicide101
+Last updated: 2019 Jan 19
