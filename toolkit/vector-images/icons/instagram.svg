@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1in"
+   height="1in"
+   viewBox="0 0 25.4 25.400001"
+   version="1.1"
+   id="svg17593"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="instagram.svg">
+  <defs
+     id="defs17587" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.56"
+     inkscape:cx="13.759327"
+     inkscape:cy="25.517713"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid19884" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata17590">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-271.59999)">
+    <g
+       id="g3143"
+       transform="matrix(0.04960938,0,0,0.04960938,-2.06e-6,271.59999)"
+       style="fill:#000000;stroke-width:0.18750004">
+      <path
+         id="path3126"
+         d="M 437,0 H 75 C 33.648438,0 0,33.648438 0,75 v 362 c 0,41.35156 33.648438,75 75,75 h 362 c 41.35156,0 75,-33.64844 75,-75 V 75 C 512,33.648438 478.35156,0 437,0 Z M 257,390 c -74.44141,0 -135,-60.55859 -135,-135 0,-74.44141 60.55859,-135 135,-135 74.44141,0 135,60.55859 135,135 0,74.44141 -60.55859,135 -135,135 z M 407,150 c -24.8125,0 -45,-20.1875 -45,-45 0,-24.8125 20.1875,-45 45,-45 24.8125,0 45,20.1875 45,45 0,24.8125 -20.1875,45 -45,45 z m 0,0"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke-width:0.18750004" />
+      <path
+         id="path3128"
+         d="m 407,90 c -8.27734,0 -15,6.722656 -15,15 0,8.27734 6.72266,15 15,15 8.27734,0 15,-6.72266 15,-15 0,-8.277344 -6.72266,-15 -15,-15 z m 0,0"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke-width:0.18750004" />
+      <path
+         id="path3130"
+         d="m 257,150 c -57.89063,0 -105,47.10937 -105,105 0,57.89062 47.10937,105 105,105 57.89062,0 105,-47.10938 105,-105 0,-57.89063 -47.10938,-105 -105,-105 z m 0,0"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke-width:0.18750004" />
+    </g>
+  </g>
+</svg>
