@@ -2,17 +2,22 @@
 
 This is our supplementary storage space for all Earth Strike graphical materials. Eventually, the contents of this respository will be migrated to, and synchronized with, the Materials page of the website (https://earth-strike.com/materials).
 
-# Structure
+## Contents
 
 Materials here are sorted into three categories:
 
-- General: the go-to resources for advertising Earth Strike's essential message. If you're looking to spread materials such as posters, fliers, brochures, and stickers, then start here.
-- Supplementary: posters and images that have a different, unique hook, or address specific causes or messages that are not central to our movement.
-- Toolkit: essential tools for use in creating new materials, including our logo, fonts, colours, and styleguide.
+### General
+The go-to resources for advertising Earth Strike's essential message. If you're looking to spread materials such as posters, fliers, brochures, and stickers, then start here.
+
+### Supplementary
+Posters and images that have a different, unique hook, or address specific causes, messages, or events that are not central to our movement.
+
+### Toolkit
+Essential tools for use in creating new materials, including our logo, fonts, colours, and styleguide.
 
 Each separate material is given its own folder, which contains the document in both publishable (.pdf or .png) and editable (.svg or .psd) formats, along with useful alternate versions of the document (black and white, etc.) where applicable.
 
-# Submissions
+## Submissions
 
 For the moment, materials should be submitted in the #media-submissions channel on our international Discord server, **in a .zip folder that contains both the publishable and editable versions.** To clarify, this means you must include either an .svg or .psd file, so that your document can be modified and translated.
 
